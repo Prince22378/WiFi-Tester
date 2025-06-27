@@ -63,8 +63,6 @@ A Jetpack Compose-based Android app that measures and records Wi-Fi signal stren
    - Stored Snapshots
    - Compare RSSI across locations
 
-
-- Install the APK from the Repo.
 ---
 
 ## 🔐 Permissions
