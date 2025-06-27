@@ -45,7 +45,7 @@ A Jetpack Compose-based Android app that measures and records Wi-Fi signal stren
 | ![](Screenshots/MulipleLocationScreen.jpg) | ![](Screenshots/ScanWifiScreen.jpg) |
 
 | Stored & Live Data | Comparison Screen |
-|--------------------||------------------|
+|--------------------|------------------|
 | ![](Screenshots/Stored%26LiveDataScreen.jpg) | ![](Screenshots/CompareLocationScreen.jpg) |
 
 ---
