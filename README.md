@@ -37,7 +37,7 @@ A Jetpack Compose-based Android app that measures and records Wi-Fi signal stren
 ## 📲 App Screens
 
 | Permission Screen | Home Screen | Multiple Location Added Screen | Scan Screen | Stored & Live Data Screen | Comparison Screen |
-|----------------|--------------------|----------------------||----------------------||----------------------||----------------------|
+|-------------------|-------------|--------------------------------||------------||--------------------------||------------------|
 | ![](Screenshots/PermissionScreen.jpg) | ![](Screenshots/LocationAddnScreen.jpg) | ![](Screenshots/MulipleLocationScreen.jpg) | ![](Screenshots/ScanWifiScreen.jpg) | ![](Screenshots/Stored%26LiveDataScreen.jpg) | ![](Screenshots/CompareLocationScreen.jpg)
 
 ---
